@@ -1,15 +1,20 @@
-# PROYEK BASIC WIDGET
+# BASIC WIDGET
 
+NAMA  : ANNISA AULIA NADHILA
 
-Tugas : Membuat Basic Widget Sederhana dengan Flutter
+KELAS : TI - 3C
 
+NIM   : 2041720023
+
+TUGAS : Membuat ui widget sederhana dengan menggunakan flutter
 
 ## ScreenShoot hasil pengerjaan
 
-tampilan awal
+# tampilan awal
 ![](Screenshoot/SS1.png)
 
 
-tampilan ketika di scroll ke bawah
+# tampilan setelah di scroll ke bawah
 ![](Screenshoot/SS2.png)
+
 
